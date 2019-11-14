@@ -1,0 +1,16 @@
+TRAINING THE NEXT GENERATION OF JEDI SCIENTISTS
+
+1. CONTACT
+
+Corresponding Author: Jacob George
+Email: Jacob.George@Utah.edu
+Webpage: faculty.utah.edu/~JacobGeorge
+
+2. ABSTRACT
+
+The long-term goal of this project is to vertically establish an improved understanding and appreciation of neural engineering in the general public, from K-12 outreach to college-level implementation. Neural engineering is an emerging field of study centered around transferring electromagnetic energy into or out of the nervous system in order to improve our functional understanding or treat neurological disorders. A key component of this multifaceted field is decoding biological signals into interpretable control signals for medical applications. However, understanding this component typically requires expensive equipment and extensive training. These financial and educational barriers limit public knowledge, which in turn limits STEM engagement and advocacy. Leveraging the popularity of Luke Skywalker’s bionic arm, we have developed an inexpensive, hands-on, laboratory exercise that allows individuals to decode their motor intent in order to control a bionic arm with their thoughts. The exercise can be used for STEM outreach for all ages, or as for a college-level introduction to biopotentials and digital signal processing. Two differential-pairs of electromyographic (EMG) data are sampled using inexpensive Arduino-based equipment (Backyard Brains). Signals are filtered (via Arduino or MATLAB) and used to control two degrees-of-freedom on a virtual bionic arm (MuJoCo HAPTIX). Raw EMG data, filtered control signals, and the bionic arm are visualized in real-time on a windows computer or tablet. This low-cost implementation of a bionic arm enables a variety of captivating educational experiences. Primary educational outcomes for the college-level laboratory exercise include: 1) identifying a patient population in need, 2) understanding how and where to record biological signals, 3) implementing real-time signal processing and control algorithms in Arduino or MATLAB, and 4) designing an experiment to quantify functional improvements. This exercise has been piloted on 40 biomedical engineering students at the University of Utah over the span of two years, receiving increasingly positive feedback. Once completed, the exercise doubles as an outreach project; lay individuals can work together or compete against one another to complete various activities in the virtual environment with their bionic arms. This exercise has been well-received by K-12 students for various outreach initiatives (e.g., science museums, Engineering Day, Brain Awareness Week). In the future, we hope to integrate variations of this exercise into more course curriculums, helping inspire and train the next generation of neural engineers.
+
+3. REFERENCES
+
+J. A. George, C. R. Butson, “Training the Next Generation of Jedi Scientists,” Society for Neuroscience, Chicago, IL, October, 19, 2019. DOI: 10.13140/RG.2.2.16405.06888 (Poster)
+J. A. George, C. R. Butson, “Training ‘Jedi Scientists’ to Control Bionic Arms with their Minds,” Utah Biomedical Engineering Conference, Salt Lake City, UT, September 13. DOI: 10.13140/RG.2.2.14253.84964 (Poster)
